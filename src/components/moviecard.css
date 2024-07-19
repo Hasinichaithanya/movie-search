@@ -26,6 +26,12 @@ input {
   border: 2px solid black;
   background-color: antiquewhite;
   margin: 10px;
+  max-width: 250px;
+  height: 330px;
+}
+.card-body {
+  width: 200px;
+  font-size: 13px;
 }
 .main-container {
   text-align: center;
